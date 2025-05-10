@@ -1,20 +1,20 @@
-<h1 align="center">👋 Olá, Meu nome é Isaac</h1>
+<h1 align="center">👋 Olá, eu me chamo Isaac, sou dev fullstack e amante de cybersec</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+  💻 Estudante de Programação | 🌍 Hack the word
 </p><br><br>
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=typescript,python,javascript,bash,css,ts)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,npm,postgres,react,bootstrap,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{isaacneiff254@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{isaacneiff254@gmail.com})](mailto:{isaacneiff254@gmail.com})
-[![Linkedin: Isaac Alves](https://img.shields.io/badge/-Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-gabriel-alves-lino-004067226/)](www.linkedin.com/in/isaac-gabriel-alves-lino-004067226)
+[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Linkedin: Isaac](https://img.shields.io/badge/-Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-gabriel-alves-lino-004067226/)](https://www.linkedin.com/in/isaac-gabriel-alves-lino-004067226/)
  <br><br>
 
 
