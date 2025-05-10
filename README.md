@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-{isaacneiff254@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{isaacneiff254@gmail.com})](mailto:{isaacneiff254@gmail.com})
-[![Linkedin: Isaac Alves](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-gabriel-alves-lino-004067226/)](www.linkedin.com/in/isaac-gabriel-alves-lino-004067226)
+[![Linkedin: Isaac Alves](https://img.shields.io/badge/-Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-gabriel-alves-lino-004067226/)](www.linkedin.com/in/isaac-gabriel-alves-lino-004067226)
  <br><br>
 
 
